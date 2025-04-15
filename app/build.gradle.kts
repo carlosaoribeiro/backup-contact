@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.carlosribeiro.backup_contato"
+    namespace = "com.carlosribeiro.backupcontato"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.carlosribeiro.backup_contato"
+        applicationId = "com.carlosribeiro.backupcontato"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.carlosribeiro.backup_contato;
+package com.carlosribeiro.backupcontato;
 
 import android.content.Context;
 
