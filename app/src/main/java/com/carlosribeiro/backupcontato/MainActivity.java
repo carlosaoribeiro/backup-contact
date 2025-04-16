@@ -14,6 +14,12 @@ public class MainActivity extends AppCompatActivity {
 
     //TODO: Declareted attributes
     //TODO: Create layout
+    //TODO: Create tela spleash Deve validar as permissoes do manisfet, o android deve receber o ok do usuario para as permissoes caso nao, encerre o app
+    //TODO: Criar uma nova branch validar permissoes
+
+    //quais sao as permissoes perigosas e as nao perigosas
+
+
 
 
     @Override
