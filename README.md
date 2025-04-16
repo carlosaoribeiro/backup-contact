@@ -26,6 +26,10 @@ Aplicativo Android para exportação de contatos da agenda para um arquivo `.csv
   - `READ_CONTACTS`
   - `WRITE_CONTACTS`
   - `WRITE_EXTERNAL_STORAGE` (ou `MediaStore` para Android 10+)
+  - `INTERNET`
+  - `ACCESS_COARSE_LOCATION`
+  - ACCESS_BACKGROUND_LOCATION
+    
 
 ---
 
